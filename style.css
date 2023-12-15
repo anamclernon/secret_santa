@@ -1,0 +1,25 @@
+body {
+  width: 100vw;
+  height: auto;
+  background-image: url("christmasbackground.jpg");
+  background-size: cover;
+  text-align: center;
+  padding-top: 150px;
+}
+
+label {
+    display: block;
+    font:
+      1rem 'Fira Sans',
+      sans-serif;
+  }
+  
+  input,
+  label {
+    margin: 0.4rem 0;
+  }
+
+p {
+  font-size: 100;
+  text-align: center;
+}
